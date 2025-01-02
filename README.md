@@ -1,4 +1,4 @@
-# Driving-License-Management-System
+# Driving-Licenses-Management-System
 
 ## Overview
 Driving License System Management is a desktop application developed using .NET Framework and ADO.NET. The system is designed to efficiently manage operations related to issuing and renewing driving licenses with reliability and accuracy.
